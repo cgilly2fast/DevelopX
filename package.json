@@ -12,7 +12,7 @@
     "cors": "^2.8.5",
     "eosjs": "^20.0.0-beta3",
     "express": "^4.16.4",
-    "firebase-admin": "^7.0.0",
+    "firebase-admin": "^11.4.1",
     "node-fetch": "^2.3.0",
     "node-git-server": "^0.5.0",
     "react-copy-to-clipboard": "^5.0.1",
